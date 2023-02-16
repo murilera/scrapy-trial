@@ -1,0 +1,19 @@
+# Put your assumptions here
+
+I started by reading the challenge and understanding what the starting point and
+expected outputs would be.
+I was a little confused because at the beginning of the challenge he talked about a
+specific path and, in the sequence, he talked about different categories and different
+paths until he reached the expected output.
+
+I tried to follow the path of capturing all the arts available on the site in their 
+most different ways, taking care with the navigation between the next pages and 
+subcategories.
+
+I created some functions to make sure I was getting to the correct page, with 
+the specific information needed to be able to capture the output data.
+
+I had to deal with some problems and difficulties with this approach, I had to do some tries until I got the result I wanted.
+
+After ensuring that I was on the correct outputs page, then it was just scraping 
+and cleaning the data, creating specific functions when necessary.

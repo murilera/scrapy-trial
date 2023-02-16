@@ -1,0 +1,46 @@
+# Feedback
+
+We're always looking for ways to improve our hiring and trial system,
+to get a good balance of challenge and minimal time and frustration.
+
+We'd love some feedback from you on your experience of the trial project.
+
+## Time and Trial Length
+
+> How did you feel about the length of the trial?
+--- It was good, I found myself into trouble since I dont read the specific wanted paths
+
+> Was it too much, or too quick for the effort involved?
+--- --- I believe it's normal, from what I've been doing. Again, I tried to scrape the whole website, so it put me into some trouble.
+
+
+## Complexity or Difficulty
+
+> Did you find the difficulty appropriate?
+Yes, I believe this challenge cover the knowledge needed for a data scraping job.
+
+> Was the trial too easy, too difficult, or just right for the position.
+--- I believe it's just right, but things can became more difficult when you need to solve captcha, rotate proxy, render javascript thigs.
+
+> you feel you are applying for?
+--- Yes, for sure, I'm glad with myself that I accomplished to deliver this challenge, I'am also glad with my results.
+
+> (Your answer here is _not_ used to judge you as a candidate, only to improve our trial process)
+--- It's all good, I'm glad to help.
+
+## Any Other Thoughts?
+
+> There are so many questions we'd love to ask, but we don't want to
+> ask for any more of your time. But if you have any other ideas, thoughts,
+> or experiences you'd like to share here to help us improve, that would
+> be very welcome.
+
+--- First I had some trouble with the env configuration, I'm currently using WSL2.
+--- I needed to create a new env and install pyopenssl and cryptography-38.0.4 (downgrating from 39.0.0)
+--- I always like to have a expected output to work with. Some expected values with the right format, I think adding one expected output would help a lot for new candidates.
+--- I have to congratulate you guys for Scrapy Cloud, I thought it was going to be difficult to setup, but it was pretty easy and simple! I'm amazed with it.
+
+## Thanks!
+
+We want to make things informative, fun, and fast. Hopefully we can get
+better with your advice and feedback.

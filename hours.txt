@@ -1,0 +1,13 @@
+# Place for time log for the project
+
+16/01/2023:
+- Worked from 6pm to 7:30pm. 
+- Break to walk my dog and eat something.
+- Return to work at 8pm to 9:15pm
+- Break to take a shower and watch netflix with my girlfriend
+
+17/01/2023:
+- start working from 2:20pm to 3:10pm (items, pipelines, add/fix parsing)
+- break to solve other tasks
+- back at 4pm, finished things, make sure everything was ok, wrote an email to check
+my approach on the solution and started to deploy on Scrapy Cloud.
